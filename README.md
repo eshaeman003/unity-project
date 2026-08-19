@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏙️ CITY QUEST
+#  CITY QUEST
 
 ### *Explore. Hunt. Earn. Survive.*
 
@@ -38,7 +38,7 @@ There is no forced traditional ending.
 
 ---
 
-# 🌆 The City Is Yours
+#  The City Is Yours
 
 You wake up in a city.
 
@@ -52,39 +52,39 @@ Just a world waiting to be explored.
 
 Your objective?
 
-### 🗺️ Explore the city
-### 💰 Find treasure
-### 🪙 Collect coins
-### 🍔 Buy food
-### ❤️ Stay alive
-### ♾️ Keep exploring
+###  Explore the city
+###  Find treasure
+###  Collect coins
+###  Buy food
+###  Stay alive
+###  Keep exploring
 
 ---
 
-# 🎯 Game Objective
+#  Game Objective
 
 The core gameplay loop is built around **exploration and survival**.
 
 ```text
-                 🏙️ ENTER THE CITY
+                  ENTER THE CITY
                          │
                          ▼
-                  🗺️ EXPLORE
+                   EXPLORE
                          │
                          ▼
-                 🧰 FIND CHESTS
+                  FIND CHESTS
                          │
                          ▼
-                  🪙 EARN COINS
+                   EARN COINS
                          │
                          ▼
-                   🍔 BUY FOOD
+                    BUY FOOD
                          │
                          ▼
-                    ❤️ SURVIVE
+                     SURVIVE
                          │
                          ▼
-                 🗺️ EXPLORE AGAIN
+                  EXPLORE AGAIN
                          │
                          └───────────────► ♾️
 ````
@@ -93,7 +93,7 @@ The more you explore, the more opportunities you have to discover resources.
 
 ---
 
-# 🧰 Treasure Hunt
+#  Treasure Hunt
 
 Hidden throughout the city are **treasure chests**.
 
@@ -101,15 +101,12 @@ These chests are one of the key reasons to explore the environment.
 
 ### Find a Chest
 
-⬇️
 
 ### Discover Its Reward
 
-⬇️
 
 ### Collect Coins
 
-⬇️
 
 ### Use Your Earnings to Survive
 
@@ -119,26 +116,26 @@ The city isn't just a backdrop.
 
 ---
 
-# 🪙 Economy System
+#  Economy System
 
 Coins act as the main resource in the game.
 
 The basic economy follows:
 
 ```text
-        🧰 CHEST
+         CHEST
            │
            ▼
-        🪙 COINS
+         COINS
            │
            ▼
-       🛒 PURCHASE
+        PURCHASE
            │
            ▼
-         🍔 FOOD
+          FOOD
            │
            ▼
-       ❤️ SURVIVAL
+        SURVIVAL
 ```
 
 Every discovery has a purpose.
@@ -147,7 +144,7 @@ Every coin can help you stay in the game a little longer.
 
 ---
 
-# 🍔 Survival System
+#  Survival System
 
 Exploration alone isn't enough.
 
@@ -163,7 +160,7 @@ It's to make enough resources to keep your journey going.
 
 ---
 
-# ♾️ Open-Ended Gameplay
+#  Open-Ended Gameplay
 
 Unlike a traditional level-based game, **City Quest is designed as an open-ended experience**.
 
@@ -204,9 +201,9 @@ Instead:
 
 ---
 
-# 🎮 Gameplay Loop
+#  Gameplay Loop
 
-## 🗺️ 01 — Explore
+##  01 — Explore
 
 Move through the city and discover different areas.
 
@@ -214,29 +211,29 @@ Don't just follow a path.
 
 **Look around.**
 
-## 🔎 02 — Search
+##  02 — Search
 
 Keep your eyes open for treasure chests hidden around the environment.
 
 You never know what you might find.
 
-## 🪙 03 — Collect
+##  03 — Collect
 
 Discovering treasure gives you access to coins.
 
 Coins become your most important resource.
 
-## 🍔 04 — Spend
+##  04 — Spend
 
 Use your coins to purchase food.
 
 Because exploration means nothing if you can't survive it.
 
-## ❤️ 05 — Survive
+##  05 — Survive
 
 Manage your resources and keep yourself going.
 
-## ♾️ 06 — Repeat
+##  06 — Repeat
 
 Go back into the city.
 
@@ -248,7 +245,7 @@ Stay alive longer.
 
 ---
 
-# 🧠 Game Design
+#  Game Design
 
 City Quest was designed around a simple principle:
 
@@ -267,11 +264,11 @@ This makes the experience more open-ended and allows the player to decide how th
 
 ---
 
-# 🎨 HCI & Computer Graphics
+# HCI & Computer Graphics
 
 This project was developed as part of **Human-Computer Interaction and Computer Graphics**, so the project combines both areas.
 
-### 🧠 Human-Computer Interaction
+### Human-Computer Interaction
 
 The game explores:
 
@@ -283,7 +280,7 @@ The game explores:
 * User-driven exploration
 * Understanding game objectives
 
-### 🎨 Computer Graphics
+### Computer Graphics
 
 The project also explores:
 
@@ -302,7 +299,7 @@ It was to create an environment that the player can **understand, explore, and i
 
 ---
 
-# 🏙️ World Design
+#  World Design
 
 The city functions as the main playground.
 
@@ -329,19 +326,19 @@ The environment therefore becomes part of the gameplay rather than simply being 
 
 ---
 
-# 🎲 Game Design Philosophy
+#  Game Design Philosophy
 
 The project is built around three simple ideas:
 
-### 🔎 Curiosity
+###  Curiosity
 
 > *"What's around the next corner?"*
 
-### 💰 Reward
+###  Reward
 
 > *"Maybe there's a chest nearby."*
 
-### ❤️ Survival
+###  Survival
 
 > *"I need enough resources to keep going."*
 
@@ -349,7 +346,7 @@ Together, these create the basic motivation behind the gameplay.
 
 ---
 
-# 🏆 Player Goals
+#  Player Goals
 
 There isn't necessarily one universal definition of winning.
 
@@ -367,7 +364,7 @@ Instead, players can create their own goals.
 
 ---
 
-# 🧩 Core Systems
+#  Core Systems
 
 At a high level, the game is built around several interconnected systems:
 
@@ -384,14 +381,14 @@ At a high level, the game is built around several interconnected systems:
               ┌─────────────┼─────────────┐
               │             │             │
               ▼             ▼             ▼
-          🧰 CHESTS      🪙 COINS      🗺️ EXPLORATION
+           CHESTS       COINS       EXPLORATION
               │             │             │
               └─────────────┼─────────────┘
                             ▼
-                     🍔 FOOD SYSTEM
+                      FOOD SYSTEM
                             │
                             ▼
-                      ❤️ SURVIVAL
+                       SURVIVAL
                             │
                             ▼
                      CONTINUE GAME
@@ -399,7 +396,7 @@ At a high level, the game is built around several interconnected systems:
 
 ---
 
-# 🛠️ Technology Stack
+#  Technology Stack
 
 | Technology            | Role                                |
 | --------------------- | ----------------------------------- |
@@ -412,7 +409,7 @@ At a high level, the game is built around several interconnected systems:
 
 ---
 
-# 👥 Team Project
+#  Team Project
 
 This was developed as a **group project during the 5th semester**.
 
@@ -428,7 +425,7 @@ The project provided experience with:
 
 ---
 
-# 🎓 Academic Context
+#  Academic Context
 
 | Category              | Details                                        |
 | --------------------- | ---------------------------------------------- |
@@ -454,32 +451,32 @@ A small-scale open-ended 3D city exploration game based around:
 
 ---
 
-# 📚 Learning Outcomes
+#  Learning Outcomes
 
 Working on City Quest helped me understand how different areas of software development come together inside a game.
 
-### 🎮 Game Development
+###  Game Development
 
 * Designing gameplay loops
 * Thinking about player motivation
 * Building interactive environments
 * Creating resource systems
 
-### 🎨 Computer Graphics
+###  Computer Graphics
 
 * Working with 3D environments
 * Understanding spatial design
 * Thinking about cameras and visual presentation
 * Working with interactive 3D objects
 
-### 🧠 HCI
+###  HCI
 
 * Designing for player interaction
 * Making objectives understandable
 * Creating discoverable interactions
 * Considering the player's experience
 
-### 👥 Teamwork
+###  Teamwork
 
 * Collaborative development
 * Task distribution
@@ -489,16 +486,16 @@ Working on City Quest helped me understand how different areas of software devel
 
 ---
 
-# 🔮 Future Roadmap
+#  Future Roadmap
 
-## 🟢 Phase 1 — Core Gameplay
+##  Phase 1 — Core Gameplay
 
 * [ ] More treasure chests
 * [ ] More food types
 * [ ] Improved resource system
 * [ ] Better player feedback
 
-## 🟡 Phase 2 — Bigger World
+##  Phase 2 — Bigger World
 
 * [ ] Larger city
 * [ ] More districts
@@ -507,7 +504,7 @@ Working on City Quest helped me understand how different areas of software devel
 * [ ] Interactive buildings
 * [ ] More exploration areas
 
-## 🟠 Phase 3 — Living City
+##  Phase 3 — Living City
 
 * [ ] NPCs
 * [ ] Pedestrians
@@ -515,7 +512,7 @@ Working on City Quest helped me understand how different areas of software devel
 * [ ] Dialogue system
 * [ ] Side quests
 
-## 🔴 Phase 4 — Full Open World
+##  Phase 4 — Full Open World
 
 * [ ] Vehicles
 * [ ] Inventory system
@@ -528,7 +525,7 @@ Working on City Quest helped me understand how different areas of software devel
 
 ---
 
-# 🗺️ The Dream Version
+#  The Dream Version
 
 ```text
                     CITY QUEST
@@ -555,60 +552,28 @@ Working on City Quest helped me understand how different areas of software devel
                   OPEN WORLD
                         │
                         ▼
-                   🌆 CITY QUEST
-```
+                    CITY QUEST
 
 ---
 
-# 🎮 If This Were a Real Game...
-
-| Category        | Rating |
-| --------------- | ------ |
-| Difficulty      | ⭐⭐⭐☆☆  |
-| Exploration     | ⭐⭐⭐⭐⭐  |
-| Freedom         | ⭐⭐⭐⭐⭐  |
-| Survival        | ⭐⭐⭐☆☆  |
-| Chaos Potential | ⭐⭐⭐⭐⭐  |
-
-> **"I'll just explore for five minutes."**
-
-**Narrator:** *She did not explore for five minutes.*
-
----
-
-# 🕹️ Game Stats
+#  Game Stats
 
 | Attribute            | Details                   |
 | -------------------- | ------------------------- |
-| 🎮 Genre             | 3D Exploration / Survival |
-| 🌆 Setting           | Open City                 |
-| 👤 Player            | Single Player             |
-| 🗺️ World            | Open-Ended                |
-| 🧰 Main Collectible  | Treasure Chests           |
-| 🪙 Currency          | Coins                     |
-| 🍔 Survival Resource | Food                      |
-| 🏫 Context           | Academic Group Project    |
-| 📚 Course            | HCI & Computer Graphics   |
-| 🎓 Semester          | 5th                       |
+|  Genre             | 3D Exploration / Survival |
+|  Setting           | Open City                 |
+|  Player            | Single Player             |
+|  World            | Open-Ended                |
+|  Main Collectible  | Treasure Chests           |
+|  Currency          | Coins                     |
+|  Survival Resource | Food                      |
+|  Context           | Academic Group Project    |
+|  Course            | HCI & Computer Graphics   |
+|  Semester          | 5th                       |
 
 ---
 
-# 📸 Screenshots
-
-Gameplay screenshots can be added here to showcase:
-
-* 🏙️ City Environment
-* 🧍 Player Exploration
-* 🧰 Treasure Chests
-* 🪙 Coin Collection
-* 🍔 Food System
-* 🎮 Gameplay
-
-A gameplay GIF or short gameplay video would also work well here.
-
----
-
-# 🚀 Project Status
+#  Project Status
 
 **Status:** Academic Prototype / Group Project
 
@@ -618,7 +583,7 @@ City Quest was created as a university game-development project and represents a
 
 ---
 
-# 📂 Repository
+#  Repository
 
 🔗 **GitHub:**
 [https://github.com/eshaeman003/unity-project](https://github.com/eshaeman003/unity-project)
@@ -627,9 +592,9 @@ City Quest was created as a university game-development project and represents a
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
-**Esha Eman**
+**Esha Eman and the group members**
 
 Software Engineering Student
 Capital University of Science and Technology (CUST)
@@ -638,7 +603,7 @@ Capital University of Science and Technology (CUST)
 
 ---
 
-# 📄 License
+#  License
 
 No specific open-source license is currently documented.
 
@@ -648,15 +613,15 @@ This project was created as an academic group project.
 
 <div align="center">
 
-# 🌆 EXPLORE THE CITY.
+#  EXPLORE THE CITY.
 
-# 🧰 FIND THE TREASURE.
+#  FIND THE TREASURE.
 
-# 🪙 EARN THE COINS.
+#  EARN THE COINS.
 
-# 🍔 STAY ALIVE.
+#  STAY ALIVE.
 
-## ♾️ AND KEEP PLAYING.
+##  AND KEEP PLAYING.
 
 <br/>
 
